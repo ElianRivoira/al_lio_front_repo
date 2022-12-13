@@ -1,6 +1,12 @@
+# Al Lío Clothing Store
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Repositories
+- ### <a href="https://github.com/ElianRivoira/al_lio_back_repo" target="_blank">Back</a>
+- ### <a href="https://github.com/ElianRivoira/al_lio_front_repo" target="_blank">Front</a>
 
 ## Available Scripts
 
